@@ -1,0 +1,14 @@
+{
+  "kiicloud://scheduler": {
+    "sendMessage": {
+      "cron": "0/1 13 * * *",
+      "endpoint": "test",
+      "parameters": {
+        "name": "naveen"
+      },
+      "what": "EXECUTE_SERVER_CODE"
+    }
+    
+  }
+  
+}
