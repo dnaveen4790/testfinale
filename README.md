@@ -1,7 +1,7 @@
 # testfinale
 
 ##testing the code
-- "*asdfsadfsdfsdfsadfdfgsdfgdfgdsfgsf*"
+- "*Sample message*"
 
 ###
  -"**successfully updated**"
